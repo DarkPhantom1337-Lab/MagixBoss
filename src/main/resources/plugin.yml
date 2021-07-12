@@ -1,0 +1,8 @@
+name: MagixBoss
+version: 1.2.6
+author: DarkPhantom1337
+description: MagixBoss plugin for version 1.12.x
+main: ua.darkphantom1337.magix.boss.Main
+commands:
+  booster:
+    aliases: [thx]
